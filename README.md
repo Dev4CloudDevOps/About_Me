@@ -1,7 +1,7 @@
-<!-- Banner Image -->
+<!-- Banner Image 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dev4CloudDevOps/Dev4CloudDevOps/main/assets/banner.png" alt="DevOps Banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Dev Rajput</h1>
 <h3 align="center">A Passionate DevOps Engineer from Bangalore, India</h3>
